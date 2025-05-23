@@ -20,4 +20,4 @@ This is a Python-based number guessing game that runs in the terminal. The progr
 3. Open a terminal, navigate to the project folder, and run:
 
 ```bash
-python guessing_game.py
+python numbergame.py
